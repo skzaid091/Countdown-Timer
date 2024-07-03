@@ -1,12 +1,10 @@
 # Countdown Timer
 
-## Hosted Link : https://timer-countdown-timer.netlify.app/
-
 A simple countdown timer built with HTML, CSS, and JavaScript. You can set the target date and time to count down to, and it will display the remaining days, hours, minutes, and seconds.
 
 ## Demo
 
-Check out the live demo [here](https://timer-countdown-timer.netlify.app/).
+###Check out the live demo [here](https://timer-countdown-timer.netlify.app/).
 
 ## Features
 
