@@ -4,7 +4,7 @@ A simple countdown timer built with HTML, CSS, and JavaScript. You can set the t
 
 ## Demo
 
-###Check out the live demo [here](https://timer-countdown-timer.netlify.app/).
+### Check out the live demo [here](https://timer-countdown-timer.netlify.app/).
 
 ## Features
 
